@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![ing  sist computacionales](https://github.com/EXIA2000/EXIA2000/assets/164764193/8402470f-99f5-4d1f-8e72-2fe080a33fe5)
 <!--
 **EXIA2000/EXIA2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
