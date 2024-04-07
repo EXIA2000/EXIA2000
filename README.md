@@ -1,6 +1,9 @@
 #                                  ¡¡¡BIENVENIDOS!!!! 👋
 ![ing  sist computacionales](https://github.com/EXIA2000/EXIA2000/assets/164764193/8402470f-99f5-4d1f-8e72-2fe080a33fe5)
-🔭 Trabajo en OCUPA PUERTO 
+🔭 Trabajo en OCUPA PUERTO ...
+🌱 Me gusta hacer proyectos en ARDUINO ...
+
+<br>
 
 ### Lenguajes de programacion.
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
