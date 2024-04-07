@@ -2,7 +2,7 @@
 ![ing  sist computacionales](https://github.com/EXIA2000/EXIA2000/assets/164764193/8402470f-99f5-4d1f-8e72-2fe080a33fe5)
 Trabajo en OCUPA PURTO
 # Lenguajes de programacion.
-
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <!--
 **EXIA2000/EXIA2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
