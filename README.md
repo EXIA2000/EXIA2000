@@ -1,18 +1,18 @@
-# ¡¡¡IENVENIDOS!!!! 👋
+# ¡¡¡BIENVENIDOS!!!! 👋
 ![ing  sist computacionales](https://github.com/EXIA2000/EXIA2000/assets/164764193/8402470f-99f5-4d1f-8e72-2fe080a33fe5)
 🔭 Trabajo en OCUPA PUERTO 
 
-## Lenguajes de programacion.
+### Lenguajes de programacion.
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## *Front-End Development*:
+### *Front-End Development*:
  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
- ## *Cloud Hosting*:
+ ### *Cloud Hosting*:
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## *Softwares and Tools*:
+### *Softwares and Tools*:
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
