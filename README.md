@@ -3,7 +3,7 @@
 Trabajo en OCUPA PURTO
 # Lenguajes de programacion.
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **EXIA2000/EXIA2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
