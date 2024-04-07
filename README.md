@@ -1,4 +1,4 @@
-# <h1 align="center">  ¡¡¡BIENVENIDOS!!!! 👋 <br>
+# <h1 align="center">  ¡¡¡ BIENVENIDOS !!!! 👋 <br>
  
 ![ing  sist computacionales](https://github.com/EXIA2000/EXIA2000/assets/164764193/8402470f-99f5-4d1f-8e72-2fe080a33fe5)
 
