@@ -4,7 +4,7 @@
 🌱 Me gusta hacer proyectos en ARDUINO ...
 
 ### Redes Sociasles.
-![GMAIL](https://mail.google.com/mail/u/0/#inbox)
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
 -----------------------------------------------------------------------------------------------------------------------------
 ### Lenguajes de programacion.
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
