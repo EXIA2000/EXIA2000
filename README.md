@@ -9,7 +9,7 @@
 <br>
 🔭 Trabajo en OCUPA PUERTO ...  <br>
 🌱 Me gusta hacer proyectos en ARDUINO ... <br>
-🐱‍🏍 Me gusta la programacion en C++ y lo estoy implementando con la interfaz grafica de QT ... <br>
+🥈 Me gusta la programacion en C++ y lo estoy implementando con la interfaz grafica de QT ... <br>
 👯 Estoy buscando colaborar sobre los temas de Inteligencia Artificial, Robotica y Redes Computacionales ... <br>
 📫 Contactame a travez de mi correo electronico "sistemas648@gmail.com" ... <br>
 
