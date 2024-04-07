@@ -1,5 +1,8 @@
 #  ¡¡¡BIENVENIDOS!!!! 👋
 ![ing  sist computacionales](https://github.com/EXIA2000/EXIA2000/assets/164764193/8402470f-99f5-4d1f-8e72-2fe080a33fe5)
+
+##Acerca de mi
+Estudiante de Ing. en Sistemas Computacionales y trabajo como COORDINADOR DE OPERACIONES en la terminal portuaria de OCUPA en Manzanillo Colima Mexico.
 🔭 Trabajo en OCUPA PUERTO ...  <br>
 🌱 Me gusta hacer proyectos en ARDUINO ...
 
